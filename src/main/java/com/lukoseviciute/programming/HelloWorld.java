@@ -1,3 +1,5 @@
+package com.lukoseviciute.programming;
+
 import java.io.PrintStream;
 
 public class HelloWorld {
